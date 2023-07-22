@@ -6,13 +6,13 @@ An wrapper around `sync.Map` that uses generics for the key and value rather tha
 
 ### Installing
 
-```
+```sh
 go get github.com/kagadar/go-syncmap
 ```
 
 ### Usage
 
-```
+```go
 import "github.com/kagadar/go-syncmap"
 ```
 
