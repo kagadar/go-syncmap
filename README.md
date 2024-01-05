@@ -1,6 +1,6 @@
 # Go Syncmap
 
-An wrapper around `sync.Map` that uses generics for the key and value rather than `any`.
+A wrapper around `sync.Map` that uses generics for the key and value rather than `any`.
 
 ## Getting Started
 
